@@ -1,0 +1,226 @@
+{
+  "editor.fontSize": 17,
+  "python.defaultInterpreterPath": "C:\\Users\\<user>\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "editor.suggest.showTypeParameters": true,
+  "editor.suggest.showUnits": true,
+  "editor.suggest.showUsers": true,
+  "editor.suggest.showValues": true,
+  "editor.suggest.showVariables": true,
+  "editor.suggest.showWords": true,
+  "tabnine.experimentalAutoImports": true,
+  "python.languageServer": "Pylance",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": false,
+  "java.home": "C:\\Program Files\\Amazon Corretto\\jdk11.0.11_9",
+  "java.help.firstView": "gettingStarted",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.renderWhitespace": "none",
+  "workbench.colorTheme": "Palenight Theme",
+  "editor.fontFamily": "Fira Code Regular",
+  "kite.developerMode": true,
+  "kite.enableOptionalCompletionsTriggers": true,
+  "json.schemas": [
+  
+  ],
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "workbench.colorCustomizations": {
+
+  },
+  "editor.tokenColorCustomizations": {
+    "[Palenight Theme]": {
+      "textMateRules": [
+        
+        // theme: inspired from Sebastian Lague's Portal video
+	  // https://www.youtube.com/watch?v=cWpFZbjtSQg&ab_channel=SebastianLague
+        {
+          "scope": "keyword.type.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.control.conditional.if.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.operator.logical.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.operator.comparison.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "storage.modifier.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.other.var.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99",
+          },
+        },
+
+        {
+          "scope": "keyword.operator.assignment.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99",
+          },
+        },
+
+        {
+          "scope": "keyword.other.new.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.operator.relational.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.operator.increment.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "keyword.control.flow.return.cs",
+          "name": "keyword",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "",
+          "name": "punctuation",
+          "settings": {
+            "foreground": "#f87e99"
+          },
+        },
+
+        {
+          "scope": "constant.numeric.decimal.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#a77ae0"
+          },
+        },
+
+        {
+          "scope": "constant.language.null.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#62c1ce"
+          },
+        },
+
+        {
+          "scope": "entity.name.type.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#62c1ce"
+          },
+        },
+
+        {
+          "scope": "constant.language.boolean.false.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#62c1ce"
+          },
+        },
+
+
+        {
+          "scope": "entity.name.function.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#C3E88D"
+          },
+        },
+
+        {
+          "scope": "variable.other.object.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#85a0eb"
+          },
+        },
+
+        {
+          "scope": "variable.other.object.property.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#85a0eb"
+          },
+        },
+
+        {
+          "scope": "string.quoted.double.cs",
+          "name": "",
+          "settings": {
+            "foreground": "#d8cf54"
+          },
+        },
+
+        {
+          "scope": "entity.name.variable.parameter",
+          "name": "",
+          "settings": {
+            "foreground": "#d8cf54",
+            "fontStyle": "italic"
+          },
+        },
+        // Portals Video theme: end
+
+      ]
+  },
+    }
+}
